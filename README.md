@@ -1,4 +1,4 @@
-
+![logo](https://github.com/amitkumar2580/amitkumar2580/blob/main/My%20project%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Amit kumar</h1>
 <h3 align="center">A passionate frontend developer and graphics designer</h3>
 
